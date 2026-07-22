@@ -81,7 +81,7 @@ function Hero() {
 
       <div>
         <img
-          src="/profile.jpg"
+          src="/venu-portfolio/profile.jpg"
           alt="Venu Arasavalli"
           style={{
             width: "300px",
